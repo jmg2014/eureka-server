@@ -20,4 +20,4 @@ eureka:
       
       
 ## To build the Docker image run:
-package docker:build
+mvn package docker:build
